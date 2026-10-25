@@ -1,6 +1,6 @@
-# Mini Agent Platform
+# Agent-Platform
 
-Staj projesi: JWT auth, tenant izolasyonu, agent CRUD, LangGraph sohbet ve tool'lar.
+JWT auth, tenant izolasyonu, agent CRUD, LangGraph sohbet ve tool'lar.
 
 ## Yapi
 
